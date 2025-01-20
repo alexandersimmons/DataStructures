@@ -1,7 +1,6 @@
 /*
 Binary Tree in C++
 In need of:
-Deletion
 Min, Max, Floor and Ceil Finder
 Balancing
 */
